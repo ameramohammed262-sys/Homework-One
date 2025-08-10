@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>My First Web Page</title>
+    </head>
+    <body>
+        <h1>Welcome to My First Web Page</h1>
+        <p>This is a simple web page created with HTML.</p>
+        <img src="https://www.bing.com/images/search?view=detailV2&ccid=kOZ%2fNRF4&id=491177C16A48D50582FCA32E18B01CCDB70761D6&thid=OIP.kOZ_NRF4sUGXv_NCK6X1fwHaFH&mediaurl=https%3a%2f%2fi.pinimg.com%2foriginals%2f56%2fdd%2fe4%2f56dde41aee17e96425987f751a9269ce.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.90e67f351178b14197bff3422ba5f57f%3frik%3d1mEHt80csBguow%26pid%3dImgRaw%26r%3d0&exph=3456&expw=5000&q=beach&mode=overlay&FORM=IQFRBA&ck=89CF0AB25FC2AAA750262B552B651DF2&selectedIndex=0&idpp=serp" alt="beach" width="500" height="500">
+    </body>
+</html>
+<div>
+<Form method="post"
+<labol for="name">name</labol>
+<input type="name" required />
+
+<labol Form="email">email</labol>
+<input type="email"id="email" required />
+
+<labol for="number">number</labol>
+<input type="number" required />
+
+<labol for="message">message</labol>
+<textarea id="message" name="message"
+
+<button type="submit">send</button
